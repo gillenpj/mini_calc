@@ -3,4 +3,4 @@
 A minimal example project used for learning Git basics
 
 ## Testing
-Use pytest to run tests.
+Use pytest to run tests. Yes, sir!
