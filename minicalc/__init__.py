@@ -1,2 +1,2 @@
-__all__ = ["add", "sub", "mul"]
-from .calc import add, sub, mul
+__all__ = ["add", "sub", "mul", "div"]
+from .calc import add, sub, mul, div
